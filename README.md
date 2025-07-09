@@ -1,4 +1,4 @@
-# 🐮 Spot the Difference – Farm Animals
+# 🐮 Spot the Difference –  Animals
 
 A fun and interactive "Spot the Difference" game built using **React + Vite**, where players find hidden differences between two similar images of farm animals.
 
@@ -11,40 +11,20 @@ A fun and interactive "Spot the Difference" game built using **React + Vite**, w
 
 ---
 
-## 📁 Project Structure
-
-├── public/
-│ ├── image1.png # Left image
-│ ├── image2.png # Right image
-│ ├── game-config.json # JSON configuration for differences
-│ ├── success.mp3 # Sound played on correct find
-│ └── screenshot.png # Screenshot used in README
-│
-├── src/
-│ ├── App.js # Main game logic (React)
-│ └── App.css # Styling
-│
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
-
 ---
 
 ## ▶️ How to Run the Game
 
 ### 🔧 Prerequisites
 
-- Node.js (v16 or later)
 - npm or yarn
 
 ### 📦 Install and Launch
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/spot-the-difference-game.git
-cd spot-the-difference-game
+git clone https://github.com/DEVJDR/spotDifference.git
+cd spot-difference-game
 
 # 2. Install dependencies
 npm install
