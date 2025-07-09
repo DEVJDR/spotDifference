@@ -71,7 +71,12 @@ export default function App() {
   if (!config) return <div>Loading game...</div>;
 
   return (
+    
     <div className="game-container">
+      <nav>
+  <a href="/config">🛠️ Configure Game</a>
+</nav>
+
       <h1>{config.gameTitle}</h1>
       <div className="images">
         {[0, 1].map(i => (
