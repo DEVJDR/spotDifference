@@ -1,4 +1,3 @@
-// ConfigScreen.jsx
 import React, { useRef, useState, useEffect } from 'react';
 import './ConfigScreen.css';
 
