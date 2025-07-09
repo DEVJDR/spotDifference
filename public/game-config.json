@@ -1,0 +1,17 @@
+{
+  "gameTitle": "Spot the Difference",
+  "images": {
+    "image1": "/img/animal1.jpg",
+    "image2": "/img/animal2.jpg"
+  },
+  "differences": [
+    { "x": 6,  "y": 210, "width": 40, "height": 40 },
+    { "x": 180,  "y": 169, "width": 35, "height": 45 },
+    { "x": 255, "y": 188, "width": 38, "height": 38 },
+    { "x": 60,  "y": 115, "width": 30, "height": 35 },
+    { "x": 385, "y": 50,  "width": 30, "height": 30 },
+    { "x": 360, "y": 175, "width": 40, "height": 65 },
+    { "x": 100, "y": 130, "width": 40, "height": 60 },     
+    { "x": 40, "y": 20, "width": 50, "height": 70 }
+  ]
+}
